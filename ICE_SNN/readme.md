@@ -22,4 +22,9 @@ python train.py
 The default time step T=4, if you want to change the time step and other parameters, please go to the corresponding place in the train.py file to change it
 
 
+## Pre-trained models
+
+link: https://pan.baidu.com/s/1T8dKU2xKHuonOyy9fVHFtg 
+
+extraction code: 7kjp
 
