@@ -1,0 +1,70 @@
+[2024-10-10 15:47:06,714][__main__][INFO] - Base model: resnet18
+[2024-10-10 15:47:06,714][__main__][INFO] - feature dim: 512, projection dim: 128
+[2024-10-10 16:18:38,479][__main__][INFO] - Base model: resnet18
+[2024-10-10 16:18:38,479][__main__][INFO] - feature dim: 512, projection dim: 128
+[2024-10-10 16:42:58,987][__main__][INFO] - Base model: resnet18
+[2024-10-10 16:42:58,988][__main__][INFO] - feature dim: 512, projection dim: 128
+[2024-10-10 16:46:58,850][__main__][INFO] - ==> Save checkpoint. Train epoch 1, PiCCL loss: 2.8662
+[2024-10-10 16:50:54,816][__main__][INFO] - ==> Save checkpoint. Train epoch 2, PiCCL loss: 2.7381
+[2024-10-10 16:54:59,001][__main__][INFO] - ==> Save checkpoint. Train epoch 3, PiCCL loss: 2.6841
+[2024-10-10 16:58:04,344][__main__][INFO] - Base model: resnet18
+[2024-10-10 16:58:04,344][__main__][INFO] - feature dim: 512, projection dim: 128
+[2024-10-10 16:58:21,174][__main__][INFO] - Base model: resnet18
+[2024-10-10 16:58:21,174][__main__][INFO] - feature dim: 512, projection dim: 128
+[2024-10-10 16:59:29,231][__main__][INFO] - ==> Save checkpoint. Train epoch 1, PiCCL loss: 3.0710
+[2024-10-10 17:00:32,553][__main__][INFO] - ==> Save checkpoint. Train epoch 2, PiCCL loss: 2.7819
+[2024-10-10 17:01:36,694][__main__][INFO] - ==> Save checkpoint. Train epoch 3, PiCCL loss: 2.7180
+[2024-10-10 17:02:40,469][__main__][INFO] - ==> Save checkpoint. Train epoch 4, PiCCL loss: 2.6689
+[2024-10-10 17:03:44,062][__main__][INFO] - ==> Save checkpoint. Train epoch 5, PiCCL loss: 2.6254
+[2024-10-10 17:09:30,288][__main__][INFO] - Base model: resnet18
+[2024-10-10 17:09:30,288][__main__][INFO] - feature dim: 512, projection dim: 128
+[2024-10-10 17:10:37,817][__main__][INFO] - ==> Save checkpoint. Train epoch 1, PiCCL loss: 3.0026
+[2024-10-10 17:11:40,513][__main__][INFO] - ==> Save checkpoint. Train epoch 2, PiCCL loss: 2.7744
+[2024-10-10 17:12:43,460][__main__][INFO] - ==> Save checkpoint. Train epoch 3, PiCCL loss: 2.7067
+[2024-10-10 17:13:51,884][__main__][INFO] - ==> Save checkpoint. Train epoch 4, PiCCL loss: 2.6520
+[2024-10-10 17:15:02,803][__main__][INFO] - ==> Save checkpoint. Train epoch 5, PiCCL loss: 2.6091
+[2024-10-10 17:16:18,211][__main__][INFO] - ==> Save checkpoint. Train epoch 6, PiCCL loss: 2.5772
+[2024-10-10 17:17:28,856][__main__][INFO] - ==> Save checkpoint. Train epoch 7, PiCCL loss: 2.5534
+[2024-10-10 17:18:47,629][__main__][INFO] - ==> Save checkpoint. Train epoch 8, PiCCL loss: 2.5390
+[2024-10-10 17:20:09,373][__main__][INFO] - ==> Save checkpoint. Train epoch 9, PiCCL loss: 2.5256
+[2024-10-10 17:21:30,347][__main__][INFO] - ==> Save checkpoint. Train epoch 10, PiCCL loss: 2.5142
+[2024-10-10 17:22:52,442][__main__][INFO] - ==> Save checkpoint. Train epoch 11, PiCCL loss: 2.5071
+[2024-10-10 17:24:15,602][__main__][INFO] - ==> Save checkpoint. Train epoch 12, PiCCL loss: 2.4987
+[2024-10-10 17:25:36,871][__main__][INFO] - ==> Save checkpoint. Train epoch 13, PiCCL loss: 2.4905
+[2024-10-10 17:26:58,076][__main__][INFO] - ==> Save checkpoint. Train epoch 14, PiCCL loss: 2.4850
+[2024-10-10 17:28:19,582][__main__][INFO] - ==> Save checkpoint. Train epoch 15, PiCCL loss: 2.4803
+[2024-10-10 17:29:40,988][__main__][INFO] - ==> Save checkpoint. Train epoch 16, PiCCL loss: 2.4742
+[2024-10-10 17:31:05,078][__main__][INFO] - ==> Save checkpoint. Train epoch 17, PiCCL loss: 2.4679
+[2024-10-10 17:32:27,657][__main__][INFO] - ==> Save checkpoint. Train epoch 18, PiCCL loss: 2.4640
+[2024-10-10 17:33:47,428][__main__][INFO] - ==> Save checkpoint. Train epoch 19, PiCCL loss: 2.4590
+[2024-10-10 17:35:09,415][__main__][INFO] - ==> Save checkpoint. Train epoch 20, PiCCL loss: 2.4541
+[2024-10-10 17:36:28,973][__main__][INFO] - ==> Save checkpoint. Train epoch 21, PiCCL loss: 2.4520
+[2024-10-10 17:37:48,564][__main__][INFO] - ==> Save checkpoint. Train epoch 22, PiCCL loss: 2.4468
+[2024-10-10 17:39:07,538][__main__][INFO] - ==> Save checkpoint. Train epoch 23, PiCCL loss: 2.4443
+[2024-10-10 17:40:27,874][__main__][INFO] - ==> Save checkpoint. Train epoch 24, PiCCL loss: 2.4407
+[2024-10-10 17:41:48,299][__main__][INFO] - ==> Save checkpoint. Train epoch 25, PiCCL loss: 2.4392
+[2024-10-10 17:43:09,080][__main__][INFO] - ==> Save checkpoint. Train epoch 26, PiCCL loss: 2.4347
+[2024-10-10 17:44:29,078][__main__][INFO] - ==> Save checkpoint. Train epoch 27, PiCCL loss: 2.4335
+[2024-10-10 17:45:49,412][__main__][INFO] - ==> Save checkpoint. Train epoch 28, PiCCL loss: 2.4308
+[2024-10-10 17:47:14,038][__main__][INFO] - ==> Save checkpoint. Train epoch 29, PiCCL loss: 2.4270
+[2024-10-10 17:48:35,212][__main__][INFO] - ==> Save checkpoint. Train epoch 30, PiCCL loss: 2.4250
+[2024-10-10 17:49:56,009][__main__][INFO] - ==> Save checkpoint. Train epoch 31, PiCCL loss: 2.4231
+[2024-10-10 17:51:16,236][__main__][INFO] - ==> Save checkpoint. Train epoch 32, PiCCL loss: 2.4197
+[2024-10-10 17:52:36,786][__main__][INFO] - ==> Save checkpoint. Train epoch 33, PiCCL loss: 2.4187
+[2024-10-10 17:53:59,246][__main__][INFO] - ==> Save checkpoint. Train epoch 34, PiCCL loss: 2.4156
+[2024-10-10 17:55:21,707][__main__][INFO] - ==> Save checkpoint. Train epoch 35, PiCCL loss: 2.4140
+[2024-10-10 17:56:44,478][__main__][INFO] - ==> Save checkpoint. Train epoch 36, PiCCL loss: 2.4131
+[2024-10-10 17:58:06,329][__main__][INFO] - ==> Save checkpoint. Train epoch 37, PiCCL loss: 2.4116
+[2024-10-10 17:59:26,391][__main__][INFO] - ==> Save checkpoint. Train epoch 38, PiCCL loss: 2.4086
+[2024-10-10 18:00:48,270][__main__][INFO] - ==> Save checkpoint. Train epoch 39, PiCCL loss: 2.4076
+[2024-10-10 18:02:11,208][__main__][INFO] - ==> Save checkpoint. Train epoch 40, PiCCL loss: 2.4065
+[2024-10-10 18:03:33,853][__main__][INFO] - ==> Save checkpoint. Train epoch 41, PiCCL loss: 2.4033
+[2024-10-10 18:04:55,735][__main__][INFO] - ==> Save checkpoint. Train epoch 42, PiCCL loss: 2.4027
+[2024-10-10 18:06:16,032][__main__][INFO] - ==> Save checkpoint. Train epoch 43, PiCCL loss: 2.4012
+[2024-10-10 18:07:37,085][__main__][INFO] - ==> Save checkpoint. Train epoch 44, PiCCL loss: 2.3986
+[2024-10-10 18:08:58,593][__main__][INFO] - ==> Save checkpoint. Train epoch 45, PiCCL loss: 2.3983
+[2024-10-10 18:10:20,884][__main__][INFO] - ==> Save checkpoint. Train epoch 46, PiCCL loss: 2.3979
+[2024-10-10 18:11:42,670][__main__][INFO] - ==> Save checkpoint. Train epoch 47, PiCCL loss: 2.3959
+[2024-10-10 18:13:04,222][__main__][INFO] - ==> Save checkpoint. Train epoch 48, PiCCL loss: 2.3952
+[2024-10-10 18:14:26,038][__main__][INFO] - ==> Save checkpoint. Train epoch 49, PiCCL loss: 2.3930
+[2024-10-10 18:15:47,759][__main__][INFO] - ==> Save checkpoint. Train epoch 50, PiCCL loss: 2.3914

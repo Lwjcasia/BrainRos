@@ -1,0 +1,2 @@
+# 脉冲序列标识的时空反向传播算法
+子文件夹包含基于CIFAR10、FashionMnist、MNIST、NMNIST四个数据及对应的程序，运行文件夹中的rossum_train.py

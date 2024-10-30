@@ -1,0 +1,59 @@
+hydra:
+  job_logging:
+#    formatters:
+#      simple:
+#        format: '[]'
+    root:
+      handlers: [file, console]  # logging to file only.
+  run:
+    #dir: logs/${dataset}
+    dir: logs/${method}/${dataset}
+
+
+method: PiCCL # SimCLR, Barlow, SimSiam, PiCCL, PiCCL2
+dataset: cifar100 # cifar10, cifar100, imagenette320, STL10
+classes: 100
+data_dir: ./data
+
+# model
+backbone: resnet18 # or resnet34, resnet50
+projection_dim: 128 # "[...] to project the representation to a 128-dimensional latent space"
+
+# train options
+transform: Barlow # SimBig, SimCifar, Barlow
+aggresiveness: 2
+seed: 42 # sacred handles automatic seeding when passed in the config
+batch_size: 32
+
+workers: 16
+epochs: 50
+log_interval: 1
+num_views: 4
+parallel: False
+lr_schedule: 0
+train_on_gpu1: 1
+
+# loss options
+optimizer: 'sgd'
+learning_rate: 0.6
+learning_rate_scaling: True # whether you want lr to automatically scale with batch size
+momentum: 0.9
+weight_decay: 1.0e-6 # "optimized using LARS [...] and weight decay of 10−6"
+# SimCLR
+temperature: 0.5 # see appendix B.7.: Optimal temperature under different batch sizes
+# Barlow Twins
+Lbt_Lambda: 0.5 
+# PiCCL
+PiCCL_alpha: 1
+PiCCL_beta: 2
+
+
+
+# evaluation options 
+finetune_epochs: 30
+load_epoch: 500  # checkpoint for evaluation
+
+
+
+
+
