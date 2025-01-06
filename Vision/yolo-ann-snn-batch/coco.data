@@ -1,0 +1,4 @@
+classes=80
+train=/disk1/ybh/data/train.txt
+valid=/disk1/ybh/data/val.txt
+names=/disk1/ybh/data/coco.names
