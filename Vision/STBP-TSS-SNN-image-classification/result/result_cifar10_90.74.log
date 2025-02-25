@@ -1,0 +1,1095 @@
+lr=0.0003 tau_s=2
+INFO:root:
+Epoch: 0
+INFO:root:Train Accuracy: 21.429 (21.429). Loss: 0.279 (0.279)
+
+INFO:root:Train Accuracy: 30.556 (30.556).
+
+INFO:root:
+Epoch: 1
+INFO:root:Train Accuracy: 42.007 (42.007). Loss: 0.255 (0.255)
+
+INFO:root:Train Accuracy: 43.750 (43.750).
+
+INFO:root:
+Epoch: 2
+INFO:root:Train Accuracy: 46.599 (46.599). Loss: 0.234 (0.234)
+
+INFO:root:Train Accuracy: 40.625 (43.750).
+
+INFO:root:
+Epoch: 3
+INFO:root:Train Accuracy: 52.891 (52.891). Loss: 0.219 (0.219)
+
+INFO:root:Train Accuracy: 45.139 (45.139).
+
+INFO:root:
+Epoch: 4
+INFO:root:Train Accuracy: 55.187 (55.187). Loss: 0.205 (0.205)
+
+INFO:root:Train Accuracy: 52.431 (52.431).
+
+INFO:root:
+Epoch: 5
+INFO:root:Train Accuracy: 57.738 (57.738). Loss: 0.194 (0.194)
+
+INFO:root:Train Accuracy: 57.639 (57.639).
+
+INFO:root:
+Epoch: 6
+INFO:root:Train Accuracy: 61.310 (61.310). Loss: 0.189 (0.189)
+
+INFO:root:Train Accuracy: 54.514 (57.639).
+
+INFO:root:
+Epoch: 7
+INFO:root:Train Accuracy: 65.901 (65.901). Loss: 0.171 (0.171)
+
+INFO:root:Train Accuracy: 59.375 (59.375).
+
+INFO:root:
+Epoch: 8
+INFO:root:Train Accuracy: 63.265 (65.901). Loss: 0.170 (0.170)
+
+INFO:root:Train Accuracy: 60.764 (60.764).
+
+INFO:root:
+Epoch: 9
+INFO:root:Train Accuracy: 66.667 (66.667). Loss: 0.162 (0.162)
+
+INFO:root:Train Accuracy: 61.111 (61.111).
+
+INFO:root:
+Epoch: 10
+INFO:root:Train Accuracy: 69.133 (69.133). Loss: 0.155 (0.155)
+
+INFO:root:Train Accuracy: 60.069 (61.111).
+
+INFO:root:
+Epoch: 11
+INFO:root:Train Accuracy: 70.578 (70.578). Loss: 0.151 (0.151)
+
+INFO:root:Train Accuracy: 64.236 (64.236).
+
+INFO:root:
+Epoch: 12
+INFO:root:Train Accuracy: 71.173 (71.173). Loss: 0.144 (0.144)
+
+INFO:root:Train Accuracy: 63.542 (64.236).
+
+INFO:root:
+Epoch: 13
+INFO:root:Train Accuracy: 73.469 (73.469). Loss: 0.142 (0.142)
+
+INFO:root:Train Accuracy: 65.625 (65.625).
+
+INFO:root:
+Epoch: 14
+INFO:root:Train Accuracy: 73.639 (73.639). Loss: 0.140 (0.140)
+
+INFO:root:Train Accuracy: 64.236 (65.625).
+
+INFO:root:
+Epoch: 15
+INFO:root:Train Accuracy: 73.469 (73.639). Loss: 0.137 (0.137)
+
+INFO:root:Train Accuracy: 65.972 (65.972).
+
+INFO:root:
+Epoch: 16
+INFO:root:Train Accuracy: 76.786 (76.786). Loss: 0.128 (0.128)
+
+INFO:root:Train Accuracy: 67.361 (67.361).
+
+INFO:root:
+Epoch: 17
+INFO:root:Train Accuracy: 77.466 (77.466). Loss: 0.131 (0.128)
+
+INFO:root:Train Accuracy: 66.667 (67.361).
+
+INFO:root:
+Epoch: 18
+INFO:root:Train Accuracy: 79.422 (79.422). Loss: 0.120 (0.120)
+
+INFO:root:Train Accuracy: 65.625 (67.361).
+
+INFO:root:
+Epoch: 19
+INFO:root:Train Accuracy: 77.381 (79.422). Loss: 0.127 (0.120)
+
+INFO:root:Train Accuracy: 66.319 (67.361).
+
+INFO:root:
+Epoch: 20
+INFO:root:Train Accuracy: 80.782 (80.782). Loss: 0.115 (0.115)
+
+INFO:root:Train Accuracy: 70.486 (70.486).
+
+INFO:root:
+Epoch: 21
+INFO:root:Train Accuracy: 80.272 (80.782). Loss: 0.116 (0.115)
+
+INFO:root:Train Accuracy: 70.486 (70.486).
+
+INFO:root:
+Epoch: 22
+INFO:root:Train Accuracy: 81.718 (81.718). Loss: 0.111 (0.111)
+
+INFO:root:Train Accuracy: 73.958 (73.958).
+
+INFO:root:
+Epoch: 23
+INFO:root:Train Accuracy: 83.759 (83.759). Loss: 0.104 (0.104)
+
+INFO:root:Train Accuracy: 68.403 (73.958).
+
+INFO:root:
+Epoch: 24
+INFO:root:Train Accuracy: 83.588 (83.759). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 67.014 (73.958).
+
+INFO:root:
+Epoch: 25
+INFO:root:Train Accuracy: 84.609 (84.609). Loss: 0.100 (0.100)
+
+INFO:root:Train Accuracy: 68.403 (73.958).
+
+INFO:root:
+Epoch: 26
+INFO:root:Train Accuracy: 84.184 (84.609). Loss: 0.103 (0.100)
+
+INFO:root:Train Accuracy: 72.222 (73.958).
+
+INFO:root:
+Epoch: 27
+INFO:root:Train Accuracy: 85.714 (85.714). Loss: 0.097 (0.097)
+
+INFO:root:Train Accuracy: 71.181 (73.958).
+
+INFO:root:
+Epoch: 28
+INFO:root:Train Accuracy: 85.884 (85.884). Loss: 0.094 (0.094)
+
+INFO:root:Train Accuracy: 70.139 (73.958).
+
+INFO:root:
+Epoch: 29
+INFO:root:Train Accuracy: 87.670 (87.670). Loss: 0.088 (0.088)
+
+INFO:root:Train Accuracy: 69.792 (73.958).
+
+INFO:root:
+Epoch: 30
+INFO:root:Train Accuracy: 87.330 (87.670). Loss: 0.093 (0.088)
+
+INFO:root:Train Accuracy: 69.444 (73.958).
+
+INFO:root:
+Epoch: 31
+INFO:root:start parsing settings
+INFO:root:finish parsing settings
+INFO:root:dataset loaded
+INFO:root:dataset loaded
+INFO:root:
+Epoch: 0
+INFO:root:Train Accuracy: 25.040 (25.040). Loss: 0.950 (0.950)
+
+INFO:root:Train Accuracy: 42.900 (42.900).
+
+INFO:root:
+Epoch: 1
+INFO:root:Train Accuracy: 42.526 (42.526). Loss: 0.758 (0.758)
+
+INFO:root:Train Accuracy: 53.190 (53.190).
+
+INFO:root:
+Epoch: 2
+INFO:root:Train Accuracy: 52.904 (52.904). Loss: 0.630 (0.630)
+
+INFO:root:Train Accuracy: 59.600 (59.600).
+
+INFO:root:
+Epoch: 3
+INFO:root:Train Accuracy: 59.788 (59.788). Loss: 0.550 (0.550)
+
+INFO:root:Train Accuracy: 66.090 (66.090).
+
+INFO:root:
+Epoch: 4
+INFO:root:Train Accuracy: 64.490 (64.490). Loss: 0.497 (0.497)
+
+INFO:root:Train Accuracy: 71.130 (71.130).
+
+INFO:root:
+Epoch: 5
+INFO:root:Train Accuracy: 68.126 (68.126). Loss: 0.461 (0.461)
+
+INFO:root:Train Accuracy: 72.960 (72.960).
+
+INFO:root:
+Epoch: 6
+INFO:root:Train Accuracy: 71.072 (71.072). Loss: 0.429 (0.429)
+
+INFO:root:Train Accuracy: 75.150 (75.150).
+
+INFO:root:
+Epoch: 7
+INFO:root:Train Accuracy: 73.636 (73.636). Loss: 0.404 (0.404)
+
+INFO:root:Train Accuracy: 77.990 (77.990).
+
+INFO:root:
+Epoch: 8
+INFO:root:Train Accuracy: 75.648 (75.648). Loss: 0.381 (0.381)
+
+INFO:root:Train Accuracy: 78.020 (78.020).
+
+INFO:root:
+Epoch: 9
+INFO:root:Train Accuracy: 77.360 (77.360). Loss: 0.364 (0.364)
+
+INFO:root:Train Accuracy: 79.130 (79.130).
+
+INFO:root:
+Epoch: 10
+INFO:root:Train Accuracy: 78.742 (78.742). Loss: 0.347 (0.347)
+
+INFO:root:Train Accuracy: 80.360 (80.360).
+
+INFO:root:
+Epoch: 11
+INFO:root:Train Accuracy: 79.940 (79.940). Loss: 0.333 (0.333)
+
+INFO:root:Train Accuracy: 81.080 (81.080).
+
+INFO:root:
+Epoch: 12
+INFO:root:Train Accuracy: 80.870 (80.870). Loss: 0.322 (0.322)
+
+INFO:root:Train Accuracy: 82.570 (82.570).
+
+INFO:root:
+Epoch: 13
+INFO:root:Train Accuracy: 81.656 (81.656). Loss: 0.312 (0.312)
+
+INFO:root:Train Accuracy: 82.570 (82.570).
+
+INFO:root:
+Epoch: 14
+INFO:root:Train Accuracy: 82.170 (82.170). Loss: 0.305 (0.305)
+
+INFO:root:Train Accuracy: 83.730 (83.730).
+
+INFO:root:
+Epoch: 15
+INFO:root:Train Accuracy: 83.192 (83.192). Loss: 0.297 (0.297)
+
+INFO:root:Train Accuracy: 84.020 (84.020).
+
+INFO:root:
+Epoch: 16
+INFO:root:Train Accuracy: 83.910 (83.910). Loss: 0.286 (0.286)
+
+INFO:root:Train Accuracy: 84.860 (84.860).
+
+INFO:root:
+Epoch: 17
+INFO:root:Train Accuracy: 84.878 (84.878). Loss: 0.277 (0.277)
+
+INFO:root:Train Accuracy: 84.890 (84.890).
+
+INFO:root:
+Epoch: 18
+INFO:root:Train Accuracy: 85.280 (85.280). Loss: 0.269 (0.269)
+
+INFO:root:Train Accuracy: 85.050 (85.050).
+
+INFO:root:
+Epoch: 19
+INFO:root:Train Accuracy: 85.582 (85.582). Loss: 0.265 (0.265)
+
+INFO:root:Train Accuracy: 85.250 (85.250).
+
+INFO:root:
+Epoch: 20
+INFO:root:Train Accuracy: 86.066 (86.066). Loss: 0.259 (0.259)
+
+INFO:root:Train Accuracy: 85.390 (85.390).
+
+INFO:root:
+Epoch: 21
+INFO:root:Train Accuracy: 86.718 (86.718). Loss: 0.252 (0.252)
+
+INFO:root:Train Accuracy: 85.990 (85.990).
+
+INFO:root:
+Epoch: 22
+INFO:root:Train Accuracy: 86.916 (86.916). Loss: 0.248 (0.248)
+
+INFO:root:Train Accuracy: 86.180 (86.180).
+
+INFO:root:
+Epoch: 23
+INFO:root:Train Accuracy: 87.592 (87.592). Loss: 0.241 (0.241)
+
+INFO:root:Train Accuracy: 86.730 (86.730).
+
+INFO:root:
+Epoch: 24
+INFO:root:Train Accuracy: 87.680 (87.680). Loss: 0.239 (0.239)
+
+INFO:root:Train Accuracy: 86.780 (86.780).
+
+INFO:root:
+Epoch: 25
+INFO:root:Train Accuracy: 88.194 (88.194). Loss: 0.234 (0.234)
+
+INFO:root:Train Accuracy: 85.600 (86.780).
+
+INFO:root:
+Epoch: 26
+INFO:root:Train Accuracy: 88.542 (88.542). Loss: 0.229 (0.229)
+
+INFO:root:Train Accuracy: 87.220 (87.220).
+
+INFO:root:
+Epoch: 27
+INFO:root:Train Accuracy: 89.080 (89.080). Loss: 0.224 (0.224)
+
+INFO:root:Train Accuracy: 86.610 (87.220).
+
+INFO:root:
+Epoch: 28
+INFO:root:Train Accuracy: 89.272 (89.272). Loss: 0.219 (0.219)
+
+INFO:root:Train Accuracy: 87.340 (87.340).
+
+INFO:root:
+Epoch: 29
+INFO:root:Train Accuracy: 89.536 (89.536). Loss: 0.216 (0.216)
+
+INFO:root:Train Accuracy: 87.810 (87.810).
+
+INFO:root:
+Epoch: 30
+INFO:root:Train Accuracy: 89.840 (89.840). Loss: 0.212 (0.212)
+
+INFO:root:Train Accuracy: 87.410 (87.810).
+
+INFO:root:
+Epoch: 31
+INFO:root:Train Accuracy: 89.972 (89.972). Loss: 0.210 (0.210)
+
+INFO:root:Train Accuracy: 87.350 (87.810).
+
+INFO:root:
+Epoch: 32
+INFO:root:Train Accuracy: 90.200 (90.200). Loss: 0.207 (0.207)
+
+INFO:root:Train Accuracy: 87.760 (87.810).
+
+INFO:root:
+Epoch: 33
+INFO:root:Train Accuracy: 90.722 (90.722). Loss: 0.201 (0.201)
+
+INFO:root:Train Accuracy: 87.610 (87.810).
+
+INFO:root:
+Epoch: 34
+INFO:root:Train Accuracy: 90.842 (90.842). Loss: 0.200 (0.200)
+
+INFO:root:Train Accuracy: 87.870 (87.870).
+
+INFO:root:
+Epoch: 35
+INFO:root:Train Accuracy: 91.006 (91.006). Loss: 0.197 (0.197)
+
+INFO:root:Train Accuracy: 87.830 (87.870).
+
+INFO:root:
+Epoch: 36
+INFO:root:Train Accuracy: 91.050 (91.050). Loss: 0.196 (0.196)
+
+INFO:root:Train Accuracy: 87.840 (87.870).
+
+INFO:root:
+Epoch: 37
+INFO:root:Train Accuracy: 91.516 (91.516). Loss: 0.191 (0.191)
+
+INFO:root:Train Accuracy: 88.360 (88.360).
+
+INFO:root:
+Epoch: 38
+INFO:root:Train Accuracy: 91.690 (91.690). Loss: 0.189 (0.189)
+
+INFO:root:Train Accuracy: 88.170 (88.360).
+
+INFO:root:
+Epoch: 39
+INFO:root:Train Accuracy: 91.780 (91.780). Loss: 0.186 (0.186)
+
+INFO:root:Train Accuracy: 88.130 (88.360).
+
+INFO:root:
+Epoch: 40
+INFO:root:Train Accuracy: 91.920 (91.920). Loss: 0.185 (0.185)
+
+INFO:root:Train Accuracy: 88.380 (88.380).
+
+INFO:root:
+Epoch: 41
+INFO:root:Train Accuracy: 92.238 (92.238). Loss: 0.181 (0.181)
+
+INFO:root:Train Accuracy: 88.510 (88.510).
+
+INFO:root:
+Epoch: 42
+INFO:root:Train Accuracy: 92.344 (92.344). Loss: 0.179 (0.179)
+
+INFO:root:Train Accuracy: 88.520 (88.520).
+
+INFO:root:
+Epoch: 43
+INFO:root:Train Accuracy: 92.542 (92.542). Loss: 0.177 (0.177)
+
+INFO:root:Train Accuracy: 88.200 (88.520).
+
+INFO:root:
+Epoch: 44
+INFO:root:Train Accuracy: 92.564 (92.564). Loss: 0.176 (0.176)
+
+INFO:root:Train Accuracy: 88.710 (88.710).
+
+INFO:root:
+Epoch: 45
+INFO:root:Train Accuracy: 92.606 (92.606). Loss: 0.175 (0.175)
+
+INFO:root:Train Accuracy: 88.920 (88.920).
+
+INFO:root:
+Epoch: 46
+INFO:root:Train Accuracy: 93.020 (93.020). Loss: 0.173 (0.173)
+
+INFO:root:Train Accuracy: 88.730 (88.920).
+
+INFO:root:
+Epoch: 47
+INFO:root:Train Accuracy: 93.114 (93.114). Loss: 0.169 (0.169)
+
+INFO:root:Train Accuracy: 88.850 (88.920).
+
+INFO:root:
+Epoch: 48
+INFO:root:Train Accuracy: 93.148 (93.148). Loss: 0.169 (0.169)
+
+INFO:root:Train Accuracy: 88.640 (88.920).
+
+INFO:root:
+Epoch: 49
+INFO:root:Train Accuracy: 93.298 (93.298). Loss: 0.168 (0.168)
+
+INFO:root:Train Accuracy: 88.500 (88.920).
+
+INFO:root:
+Epoch: 50
+INFO:root:Train Accuracy: 94.250 (94.250). Loss: 0.155 (0.155)
+
+INFO:root:Train Accuracy: 89.460 (89.460).
+
+INFO:root:
+Epoch: 51
+INFO:root:Train Accuracy: 94.736 (94.736). Loss: 0.149 (0.149)
+
+INFO:root:Train Accuracy: 89.310 (89.460).
+
+INFO:root:
+Epoch: 52
+INFO:root:Train Accuracy: 94.984 (94.984). Loss: 0.147 (0.147)
+
+INFO:root:Train Accuracy: 89.650 (89.650).
+
+INFO:root:
+Epoch: 53
+INFO:root:Train Accuracy: 95.044 (95.044). Loss: 0.145 (0.145)
+
+INFO:root:Train Accuracy: 89.530 (89.650).
+
+INFO:root:
+Epoch: 54
+INFO:root:Train Accuracy: 95.242 (95.242). Loss: 0.143 (0.143)
+
+INFO:root:Train Accuracy: 89.720 (89.720).
+
+INFO:root:
+Epoch: 55
+INFO:root:Train Accuracy: 95.282 (95.282). Loss: 0.142 (0.142)
+
+INFO:root:Train Accuracy: 89.440 (89.720).
+
+INFO:root:
+Epoch: 56
+INFO:root:Train Accuracy: 95.312 (95.312). Loss: 0.142 (0.142)
+
+INFO:root:Train Accuracy: 89.670 (89.720).
+
+INFO:root:
+Epoch: 57
+INFO:root:Train Accuracy: 95.408 (95.408). Loss: 0.139 (0.139)
+
+INFO:root:Train Accuracy: 89.260 (89.720).
+
+INFO:root:
+Epoch: 58
+INFO:root:Train Accuracy: 95.446 (95.446). Loss: 0.140 (0.139)
+
+INFO:root:Train Accuracy: 89.950 (89.950).
+
+INFO:root:
+Epoch: 59
+INFO:root:Train Accuracy: 95.682 (95.682). Loss: 0.137 (0.137)
+
+INFO:root:Train Accuracy: 89.540 (89.950).
+
+INFO:root:
+Epoch: 60
+INFO:root:Train Accuracy: 95.632 (95.682). Loss: 0.137 (0.137)
+
+INFO:root:Train Accuracy: 89.920 (89.950).
+
+INFO:root:
+Epoch: 61
+INFO:root:Train Accuracy: 95.764 (95.764). Loss: 0.136 (0.136)
+
+INFO:root:Train Accuracy: 89.230 (89.950).
+
+INFO:root:
+Epoch: 62
+INFO:root:Train Accuracy: 95.810 (95.810). Loss: 0.135 (0.135)
+
+INFO:root:Train Accuracy: 89.420 (89.950).
+
+INFO:root:
+Epoch: 63
+INFO:root:Train Accuracy: 95.896 (95.896). Loss: 0.133 (0.133)
+
+INFO:root:Train Accuracy: 89.280 (89.950).
+
+INFO:root:
+Epoch: 64
+INFO:root:Train Accuracy: 95.804 (95.896). Loss: 0.134 (0.133)
+
+INFO:root:Train Accuracy: 89.680 (89.950).
+
+INFO:root:
+Epoch: 65
+INFO:root:Train Accuracy: 96.070 (96.070). Loss: 0.131 (0.131)
+
+INFO:root:Train Accuracy: 89.870 (89.950).
+
+INFO:root:
+Epoch: 66
+INFO:root:Train Accuracy: 96.050 (96.070). Loss: 0.132 (0.131)
+
+INFO:root:Train Accuracy: 89.580 (89.950).
+
+INFO:root:
+Epoch: 67
+INFO:root:Train Accuracy: 96.192 (96.192). Loss: 0.129 (0.129)
+
+INFO:root:Train Accuracy: 90.320 (90.320).
+
+INFO:root:
+Epoch: 68
+INFO:root:Train Accuracy: 96.244 (96.244). Loss: 0.130 (0.129)
+
+INFO:root:Train Accuracy: 89.910 (90.320).
+
+INFO:root:
+Epoch: 69
+INFO:root:Train Accuracy: 96.188 (96.244). Loss: 0.130 (0.129)
+
+INFO:root:Train Accuracy: 89.720 (90.320).
+
+INFO:root:
+Epoch: 70
+INFO:root:Train Accuracy: 96.260 (96.260). Loss: 0.129 (0.129)
+
+INFO:root:Train Accuracy: 89.880 (90.320).
+
+INFO:root:
+Epoch: 71
+INFO:root:Train Accuracy: 96.284 (96.284). Loss: 0.128 (0.128)
+
+INFO:root:Train Accuracy: 89.410 (90.320).
+
+INFO:root:
+Epoch: 72
+INFO:root:Train Accuracy: 96.500 (96.500). Loss: 0.126 (0.126)
+
+INFO:root:Train Accuracy: 90.000 (90.320).
+
+INFO:root:
+Epoch: 73
+INFO:root:Train Accuracy: 96.466 (96.500). Loss: 0.126 (0.126)
+
+INFO:root:Train Accuracy: 89.950 (90.320).
+
+INFO:root:
+Epoch: 74
+INFO:root:Train Accuracy: 96.484 (96.500). Loss: 0.126 (0.126)
+
+INFO:root:Train Accuracy: 90.060 (90.320).
+
+INFO:root:
+Epoch: 75
+INFO:root:Train Accuracy: 96.526 (96.526). Loss: 0.125 (0.125)
+
+INFO:root:Train Accuracy: 89.630 (90.320).
+
+INFO:root:
+Epoch: 76
+INFO:root:Train Accuracy: 96.608 (96.608). Loss: 0.124 (0.124)
+
+INFO:root:Train Accuracy: 89.630 (90.320).
+
+INFO:root:
+Epoch: 77
+INFO:root:Train Accuracy: 96.636 (96.636). Loss: 0.124 (0.124)
+
+INFO:root:Train Accuracy: 90.200 (90.320).
+
+INFO:root:
+Epoch: 78
+INFO:root:Train Accuracy: 96.664 (96.664). Loss: 0.124 (0.124)
+
+INFO:root:Train Accuracy: 89.790 (90.320).
+
+INFO:root:
+Epoch: 79
+INFO:root:Train Accuracy: 96.668 (96.668). Loss: 0.123 (0.123)
+
+INFO:root:Train Accuracy: 90.010 (90.320).
+
+INFO:root:
+Epoch: 80
+INFO:root:Train Accuracy: 96.600 (96.668). Loss: 0.122 (0.122)
+
+INFO:root:Train Accuracy: 90.160 (90.320).
+
+INFO:root:
+Epoch: 81
+INFO:root:Train Accuracy: 96.702 (96.702). Loss: 0.123 (0.122)
+
+INFO:root:Train Accuracy: 90.010 (90.320).
+
+INFO:root:
+Epoch: 82
+INFO:root:Train Accuracy: 96.706 (96.706). Loss: 0.122 (0.122)
+
+INFO:root:Train Accuracy: 90.130 (90.320).
+
+INFO:root:
+Epoch: 83
+INFO:root:Train Accuracy: 96.796 (96.796). Loss: 0.121 (0.121)
+
+INFO:root:Train Accuracy: 89.520 (90.320).
+
+INFO:root:
+Epoch: 84
+INFO:root:Train Accuracy: 96.924 (96.924). Loss: 0.120 (0.120)
+
+INFO:root:Train Accuracy: 90.120 (90.320).
+
+INFO:root:
+Epoch: 85
+INFO:root:Train Accuracy: 96.884 (96.924). Loss: 0.121 (0.120)
+
+INFO:root:Train Accuracy: 90.170 (90.320).
+
+INFO:root:
+Epoch: 86
+INFO:root:Train Accuracy: 96.778 (96.924). Loss: 0.121 (0.120)
+
+INFO:root:Train Accuracy: 89.870 (90.320).
+
+INFO:root:
+Epoch: 87
+INFO:root:Train Accuracy: 96.840 (96.924). Loss: 0.121 (0.120)
+
+INFO:root:Train Accuracy: 89.940 (90.320).
+
+INFO:root:
+Epoch: 88
+INFO:root:Train Accuracy: 96.838 (96.924). Loss: 0.121 (0.120)
+
+INFO:root:Train Accuracy: 89.970 (90.320).
+
+INFO:root:
+Epoch: 89
+INFO:root:Train Accuracy: 96.824 (96.924). Loss: 0.120 (0.120)
+
+INFO:root:Train Accuracy: 89.640 (90.320).
+
+INFO:root:
+Epoch: 90
+INFO:root:Train Accuracy: 96.972 (96.972). Loss: 0.119 (0.119)
+
+INFO:root:Train Accuracy: 89.950 (90.320).
+
+INFO:root:
+Epoch: 91
+INFO:root:Train Accuracy: 97.054 (97.054). Loss: 0.119 (0.119)
+
+INFO:root:Train Accuracy: 89.690 (90.320).
+
+INFO:root:
+Epoch: 92
+INFO:root:Train Accuracy: 97.040 (97.054). Loss: 0.118 (0.118)
+
+INFO:root:Train Accuracy: 89.890 (90.320).
+
+INFO:root:
+Epoch: 93
+INFO:root:Train Accuracy: 97.032 (97.054). Loss: 0.119 (0.118)
+
+INFO:root:Train Accuracy: 89.660 (90.320).
+
+INFO:root:
+Epoch: 94
+INFO:root:Train Accuracy: 96.970 (97.054). Loss: 0.119 (0.118)
+
+INFO:root:Train Accuracy: 89.760 (90.320).
+
+INFO:root:
+Epoch: 95
+INFO:root:Train Accuracy: 97.048 (97.054). Loss: 0.118 (0.118)
+
+INFO:root:Train Accuracy: 89.920 (90.320).
+
+INFO:root:
+Epoch: 96
+INFO:root:Train Accuracy: 97.202 (97.202). Loss: 0.116 (0.116)
+
+INFO:root:Train Accuracy: 90.010 (90.320).
+
+INFO:root:
+Epoch: 97
+INFO:root:Train Accuracy: 97.180 (97.202). Loss: 0.117 (0.116)
+
+INFO:root:Train Accuracy: 89.840 (90.320).
+
+INFO:root:
+Epoch: 98
+INFO:root:Train Accuracy: 97.152 (97.202). Loss: 0.116 (0.116)
+
+INFO:root:Train Accuracy: 90.110 (90.320).
+
+INFO:root:
+Epoch: 99
+INFO:root:Train Accuracy: 97.208 (97.208). Loss: 0.116 (0.116)
+
+INFO:root:Train Accuracy: 90.260 (90.320).
+
+INFO:root:
+Epoch: 100
+INFO:root:Train Accuracy: 97.474 (97.474). Loss: 0.112 (0.112)
+
+INFO:root:Train Accuracy: 90.280 (90.320).
+
+INFO:root:
+Epoch: 101
+INFO:root:Train Accuracy: 97.750 (97.750). Loss: 0.109 (0.109)
+
+INFO:root:Train Accuracy: 90.400 (90.400).
+
+INFO:root:
+Epoch: 102
+INFO:root:Train Accuracy: 97.862 (97.862). Loss: 0.108 (0.108)
+
+INFO:root:Train Accuracy: 90.640 (90.640).
+
+INFO:root:
+Epoch: 103
+INFO:root:Train Accuracy: 97.894 (97.894). Loss: 0.107 (0.107)
+
+INFO:root:Train Accuracy: 90.130 (90.640).
+
+INFO:root:
+Epoch: 104
+INFO:root:Train Accuracy: 97.860 (97.894). Loss: 0.108 (0.107)
+
+INFO:root:Train Accuracy: 90.320 (90.640).
+
+INFO:root:
+Epoch: 105
+INFO:root:Train Accuracy: 97.988 (97.988). Loss: 0.106 (0.106)
+
+INFO:root:Train Accuracy: 90.420 (90.640).
+
+INFO:root:
+Epoch: 106
+INFO:root:Train Accuracy: 97.856 (97.988). Loss: 0.107 (0.106)
+
+INFO:root:Train Accuracy: 90.150 (90.640).
+
+INFO:root:
+Epoch: 107
+INFO:root:Train Accuracy: 97.848 (97.988). Loss: 0.107 (0.106)
+
+INFO:root:Train Accuracy: 90.390 (90.640).
+
+INFO:root:
+Epoch: 108
+INFO:root:Train Accuracy: 97.976 (97.988). Loss: 0.105 (0.105)
+
+INFO:root:Train Accuracy: 90.480 (90.640).
+
+INFO:root:
+Epoch: 109
+INFO:root:Train Accuracy: 97.898 (97.988). Loss: 0.106 (0.105)
+
+INFO:root:Train Accuracy: 90.320 (90.640).
+
+INFO:root:
+Epoch: 110
+INFO:root:Train Accuracy: 97.868 (97.988). Loss: 0.107 (0.105)
+
+INFO:root:Train Accuracy: 90.480 (90.640).
+
+INFO:root:
+Epoch: 111
+INFO:root:Train Accuracy: 97.984 (97.988). Loss: 0.106 (0.105)
+
+INFO:root:Train Accuracy: 90.400 (90.640).
+
+INFO:root:
+Epoch: 112
+INFO:root:Train Accuracy: 97.936 (97.988). Loss: 0.106 (0.105)
+
+INFO:root:Train Accuracy: 90.280 (90.640).
+
+INFO:root:
+Epoch: 113
+INFO:root:Train Accuracy: 98.014 (98.014). Loss: 0.105 (0.105)
+
+INFO:root:Train Accuracy: 90.570 (90.640).
+
+INFO:root:
+Epoch: 114
+INFO:root:Train Accuracy: 97.972 (98.014). Loss: 0.106 (0.105)
+
+INFO:root:Train Accuracy: 90.470 (90.640).
+
+INFO:root:
+Epoch: 115
+INFO:root:Train Accuracy: 98.118 (98.118). Loss: 0.104 (0.104)
+
+INFO:root:Train Accuracy: 90.230 (90.640).
+
+INFO:root:
+Epoch: 116
+INFO:root:Train Accuracy: 97.938 (98.118). Loss: 0.106 (0.104)
+
+INFO:root:Train Accuracy: 90.380 (90.640).
+
+INFO:root:
+Epoch: 117
+INFO:root:Train Accuracy: 98.072 (98.118). Loss: 0.104 (0.104)
+
+INFO:root:Train Accuracy: 90.480 (90.640).
+
+INFO:root:
+Epoch: 118
+INFO:root:Train Accuracy: 98.118 (98.118). Loss: 0.104 (0.104)
+
+INFO:root:Train Accuracy: 90.440 (90.640).
+
+INFO:root:
+Epoch: 119
+INFO:root:Train Accuracy: 98.072 (98.118). Loss: 0.104 (0.104)
+
+INFO:root:Train Accuracy: 90.610 (90.640).
+
+INFO:root:
+Epoch: 120
+INFO:root:Train Accuracy: 98.010 (98.118). Loss: 0.104 (0.104)
+
+INFO:root:Train Accuracy: 90.280 (90.640).
+
+INFO:root:
+Epoch: 121
+INFO:root:Train Accuracy: 98.034 (98.118). Loss: 0.104 (0.104)
+
+INFO:root:Train Accuracy: 90.270 (90.640).
+
+INFO:root:
+Epoch: 122
+INFO:root:Train Accuracy: 98.112 (98.118). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 90.420 (90.640).
+
+INFO:root:
+Epoch: 123
+INFO:root:Train Accuracy: 98.052 (98.118). Loss: 0.104 (0.103)
+
+INFO:root:Train Accuracy: 90.550 (90.640).
+
+INFO:root:
+Epoch: 124
+INFO:root:Train Accuracy: 98.156 (98.156). Loss: 0.104 (0.103)
+
+INFO:root:Train Accuracy: 90.300 (90.640).
+
+INFO:root:
+Epoch: 125
+INFO:root:Train Accuracy: 98.056 (98.156). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 90.060 (90.640).
+
+INFO:root:
+Epoch: 126
+INFO:root:Train Accuracy: 98.184 (98.184). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 90.630 (90.640).
+
+INFO:root:
+Epoch: 127
+INFO:root:Train Accuracy: 98.138 (98.184). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 90.180 (90.640).
+
+INFO:root:
+Epoch: 128
+INFO:root:Train Accuracy: 98.128 (98.184). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 90.450 (90.640).
+
+INFO:root:
+Epoch: 129
+INFO:root:Train Accuracy: 98.202 (98.202). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 90.640 (90.640).
+
+INFO:root:
+Epoch: 130
+INFO:root:Train Accuracy: 98.192 (98.202). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 90.260 (90.640).
+
+INFO:root:
+Epoch: 131
+INFO:root:Train Accuracy: 98.158 (98.202). Loss: 0.103 (0.103)
+
+INFO:root:Train Accuracy: 90.080 (90.640).
+
+INFO:root:
+Epoch: 132
+INFO:root:Train Accuracy: 98.250 (98.250). Loss: 0.102 (0.102)
+
+INFO:root:Train Accuracy: 90.490 (90.640).
+
+INFO:root:
+Epoch: 133
+INFO:root:Train Accuracy: 98.224 (98.250). Loss: 0.102 (0.102)
+
+INFO:root:Train Accuracy: 90.240 (90.640).
+
+INFO:root:
+Epoch: 134
+INFO:root:Train Accuracy: 98.302 (98.302). Loss: 0.102 (0.102)
+
+INFO:root:Train Accuracy: 90.410 (90.640).
+
+INFO:root:
+Epoch: 135
+INFO:root:Train Accuracy: 98.248 (98.302). Loss: 0.101 (0.101)
+
+INFO:root:Train Accuracy: 90.550 (90.640).
+
+INFO:root:
+Epoch: 136
+INFO:root:Train Accuracy: 98.174 (98.302). Loss: 0.102 (0.101)
+
+INFO:root:Train Accuracy: 90.580 (90.640).
+
+INFO:root:
+Epoch: 137
+INFO:root:Train Accuracy: 98.134 (98.302). Loss: 0.103 (0.101)
+
+INFO:root:Train Accuracy: 90.650 (90.650).
+
+INFO:root:
+Epoch: 138
+INFO:root:Train Accuracy: 98.160 (98.302). Loss: 0.103 (0.101)
+
+INFO:root:Train Accuracy: 90.270 (90.650).
+
+INFO:root:
+Epoch: 139
+INFO:root:Train Accuracy: 98.198 (98.302). Loss: 0.102 (0.101)
+
+INFO:root:Train Accuracy: 90.370 (90.650).
+
+INFO:root:
+Epoch: 140
+INFO:root:Train Accuracy: 98.230 (98.302). Loss: 0.102 (0.101)
+
+INFO:root:Train Accuracy: 90.250 (90.650).
+
+INFO:root:
+Epoch: 141
+INFO:root:Train Accuracy: 98.280 (98.302). Loss: 0.101 (0.101)
+
+INFO:root:Train Accuracy: 90.520 (90.650).
+
+INFO:root:
+Epoch: 142
+INFO:root:Train Accuracy: 98.186 (98.302). Loss: 0.102 (0.101)
+
+INFO:root:Train Accuracy: 90.740 (90.740).
+
+INFO:root:
+Epoch: 143
+INFO:root:Train Accuracy: 98.210 (98.302). Loss: 0.101 (0.101)
+
+INFO:root:Train Accuracy: 90.360 (90.740).
+
+INFO:root:
+Epoch: 144
+INFO:root:Train Accuracy: 98.236 (98.302). Loss: 0.102 (0.101)
+
+INFO:root:Train Accuracy: 90.460 (90.740).
+
+INFO:root:
+Epoch: 145
+INFO:root:Train Accuracy: 98.178 (98.302). Loss: 0.103 (0.101)
+
+INFO:root:Train Accuracy: 90.380 (90.740).
+
+INFO:root:
+Epoch: 146
+INFO:root:Train Accuracy: 98.218 (98.302). Loss: 0.101 (0.101)
+
+INFO:root:Train Accuracy: 90.160 (90.740).
+
+INFO:root:
+Epoch: 147
+INFO:root:Train Accuracy: 98.312 (98.312). Loss: 0.101 (0.101)
+
+INFO:root:Train Accuracy: 90.570 (90.740).
+
+INFO:root:
+Epoch: 148
+INFO:root:Train Accuracy: 98.282 (98.312). Loss: 0.102 (0.101)
+
+INFO:root:Train Accuracy: 90.360 (90.740).
+
+INFO:root:
+Epoch: 149
+INFO:root:Train Accuracy: 98.244 (98.312). Loss: 0.102 (0.101)
+
+INFO:root:Train Accuracy: 90.360 (90.740).
+
+INFO:root:Best Accuracy: 0.907, at epoch: 0 
+

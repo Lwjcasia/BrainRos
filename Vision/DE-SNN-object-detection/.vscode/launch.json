@@ -1,0 +1,38 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ann_to_snn",
+            "type": "python",
+            "request": "launch",
+            "module": "ann_to_snn",
+            "justMyCode": true,
+            "args": [
+                "--cfg", "cfg/voc-yolov3-tiny-mp2conv-mp1none-lk2relu-up2tconv.cfg",
+                "--data", "data/voc.data",
+                "--weights", "weights/last_voc_origin.pt",
+                "--timesteps", "32",
+                "--batch-size", "1",
+                "--device", "2",
+            ]
+        },
+        {
+            "name": "train",
+            "type": "python",
+            "request": "launch",
+            "module": "train",
+            "justMyCode": true,
+            "args": [
+                "--cfg", "cfg/voc-yolov3-tiny-mp2conv-mp1none-lk2relu-up2tconv.cfg",
+                "--data", "data/voc.data",
+                "--weights", "",
+                "--batch-size", "32",
+                "--device", "2",
+                // "--timesteps", "32",
+            ]
+        }
+    ]
+}
