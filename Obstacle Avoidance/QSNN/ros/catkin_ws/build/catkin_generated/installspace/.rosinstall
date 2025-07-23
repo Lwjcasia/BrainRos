@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jackal/SAN/spiking-ddpg-mapless-navigation/ros/catkin_ws/install/setup.sh

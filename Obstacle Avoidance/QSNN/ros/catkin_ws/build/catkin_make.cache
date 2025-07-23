@@ -1,0 +1,2 @@
+simple_laserscan:turtlebot_description:turtlebot_lidar
+-DCATKIN_DEVEL_PREFIX=/home/jackal/SAN/spiking-ddpg-mapless-navigation/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jackal/SAN/spiking-ddpg-mapless-navigation/ros/catkin_ws/install -G Unix Makefiles
