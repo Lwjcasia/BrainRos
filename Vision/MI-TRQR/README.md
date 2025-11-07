@@ -10,7 +10,7 @@ This repository provides the official implementation of NlPS 2025 paper [MI-TRQR
 }
 ```
 
-The code is available at: [https://github.com/dfxue/MSFI](https://github.com/dfxue/MI-TRQR)
+The code is available at: https://github.com/dfxue/MI-TRQR
 
 
 # Contact
