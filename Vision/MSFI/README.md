@@ -3,7 +3,7 @@ Dengfeng Xue*, Wenjuan Li*, Chunfeng Yuan, Haowei Liu, Man Yao, Wei Liu, Li Yang
 
 *Equal contribution.
 
-The code is modified by https://github.com/fangwei123456/Parallel-Spiking-Neuron.
+The code is available at: https://github.com/dfxue/MSFI
 
 
 # Contact
@@ -27,5 +27,5 @@ If you find this work useful in your research, please consider citing:
 }
 ```
 
-The code is available at: https://github.com/dfxue/MSFI
+
 
